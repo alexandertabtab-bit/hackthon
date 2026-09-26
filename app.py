@@ -408,10 +408,4 @@ use_container_width=True,hide_index=True)
 st.markdown("### 📦 Colis liés")
 st.dataframe(g,use_container_width=True,hide_index=True)
 
-st.markdown("### 🤖 Explication")
-explanation, is_live = get_llm_explanation(choice, r)
-st.info(explanation)
-if not is_live:
-    st.caption("Configurez `ANTHROPIC_API_KEY` dans les secrets Streamlit pour une explication générée en direct.")
 
-st.caption("⚠️ Prototype : données simulées et pondérations illustratives, conformément au caractère démonstratif du prototype.")
