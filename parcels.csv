@@ -1,1 +1,8 @@
 
+parcel_id,recipient_name,address,phone,date,description,quantity,declared_value,origin
+P001,Ahmed Ben Ali,12 Rue de Tunis Ariana,20123456,2026-05-02,coque iPhone 15,3,45,China
+P002,Ahmed B Ali,12 rue Tunis Ariana,20123456,2026-05-09,iPhone 15 phone case,4,52,China
+P003,Ahmad Ben Ali,12 Rue de Tunis Ariana,20123456,2026-05-16,étui pour iPhone 15,3,48,China
+P004,Sami Trabelsi,8 Avenue Habib Bourguiba Tunis,22112233,2026-05-04,chemises homme,2,70,China
+P005,Sami Trabelsi,8 Av Habib Bourguiba Tunis,22112233,2026-05-20,pantalon homme,1,45,China
+P006,Leila Mansour,25 Rue Carthage Tunis,55123456,2026-05-03,livre de cuisine,1,25,France
